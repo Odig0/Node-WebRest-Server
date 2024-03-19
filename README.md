@@ -1,5 +1,8 @@
 
 
-Dev:
 
-1 Duplicar el .env.template, crear el .env
+
+
+# Dev
+
+1. Clonar el .env.template y crear el .env
